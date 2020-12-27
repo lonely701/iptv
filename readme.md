@@ -1,1 +1,1 @@
-# File storage for personal use.
+# iptv playlists for personal use.
