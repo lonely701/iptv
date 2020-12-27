@@ -1,0 +1,169 @@
+#EXTM3U url-tvg="http://192.168.126.1:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.126.1:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="CCTV-1综合[高清]" tvg-id="1000" tvg-logo="" group-title="央视",CCTV-1综合[高清]
+http://192.168.126.1:34400/stream/40d3a77f657e5f8eceea6b15c12f1e61
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="CCTV-2财经[高清]" tvg-id="1001" tvg-logo="" group-title="央视",CCTV-2财经[高清]
+http://192.168.126.1:34400/stream/986a812bf3389dd253f45534f3feb79c
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="CCTV-3综艺[高清]" tvg-id="1002" tvg-logo="" group-title="央视",CCTV-3综艺[高清]
+http://192.168.126.1:34400/stream/c0a845e0577b7873a32d44d9274f645b
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="CCTV-4中文国际[高清]" tvg-id="1003" tvg-logo="" group-title="央视",CCTV-4中文国际[高清]
+http://192.168.126.1:34400/stream/b9077109103d854943d6adb0da9e1408
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="CCTV-5体育[高清]" tvg-id="1004" tvg-logo="" group-title="央视",CCTV-5体育[高清]
+http://192.168.126.1:34400/stream/fb108b933e1bab22855e1561f2544617
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV-6电影[高清]" tvg-id="1005" tvg-logo="" group-title="央视",CCTV-6电影[高清]
+http://192.168.126.1:34400/stream/15e282926bcb9050b20cb5886d76b59b
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CCTV-7国防军事[高清]" tvg-id="1006" tvg-logo="" group-title="央视",CCTV-7国防军事[高清]
+http://192.168.126.1:34400/stream/e25ea5803316d16e46e162492a601c3b
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="CCTV-8电视剧[高清]" tvg-id="1007" tvg-logo="" group-title="央视",CCTV-8电视剧[高清]
+http://192.168.126.1:34400/stream/5954e4098fcdf640d923b1ab8751e59f
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV-9纪录[高清]" tvg-id="1008" tvg-logo="" group-title="央视",CCTV-9纪录[高清]
+http://192.168.126.1:34400/stream/3922408c5444d9286386ec0511eeebac
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CCTV-10科教[高清]" tvg-id="1009" tvg-logo="" group-title="央视",CCTV-10科教[高清]
+http://192.168.126.1:34400/stream/415da2b3d284fb577820ea5e06f83878
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="CCTV-11戏曲[高清]" tvg-id="1010" tvg-logo="" group-title="央视",CCTV-11戏曲[高清]
+http://192.168.126.1:34400/stream/43d1c03613419b3501fa22011ab8a71b
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="CCTV-12社会与法[高清]" tvg-id="1011" tvg-logo="" group-title="央视",CCTV-12社会与法[高清]
+http://192.168.126.1:34400/stream/933d2f9566ccc4aeb1b702715734bd97
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="CCTV-14少儿[高清]" tvg-id="1012" tvg-logo="" group-title="央视",CCTV-14少儿[高清]
+http://192.168.126.1:34400/stream/1c654722ba2c323b6f89b820f1498341
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="CCTV-15音乐[高清]" tvg-id="1013" tvg-logo="" group-title="央视",CCTV-15音乐[高清]
+http://192.168.126.1:34400/stream/62aeb71311bdec86038922f7e69c8c45
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="CCTV-17农业农村[高清]" tvg-id="1014" tvg-logo="" group-title="央视",CCTV-17农业农村[高清]
+http://192.168.126.1:34400/stream/8a29b6610e9ad97bc75351ed9acf6b29
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="BTV北京卫视[高清]" tvg-id="1015" tvg-logo="" group-title="北京高清",BTV北京卫视[高清]
+http://192.168.126.1:34400/stream/2a26d5890e4a45e588f32f81105509b9
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="BTV新闻[高清]" tvg-id="1016" tvg-logo="" group-title="北京高清",BTV新闻[高清]
+http://192.168.126.1:34400/stream/948b9f311362520218f67b1f42530f87
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="BTV文艺[高清]" tvg-id="1017" tvg-logo="" group-title="北京高清",BTV文艺[高清]
+http://192.168.126.1:34400/stream/e690ff33f403f3c83d388bd6a946835a
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="BTV影视[高清]" tvg-id="1018" tvg-logo="" group-title="北京高清",BTV影视[高清]
+http://192.168.126.1:34400/stream/be893ff61ccd30614cdb2d4eb83618bf
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="BTV冬奥纪实[高清]" tvg-id="1019" tvg-logo="" group-title="北京高清",BTV冬奥纪实[高清]
+http://192.168.126.1:34400/stream/e48be732ac97a984073f9375a0286dfa
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="BTV卡酷少儿[高清]" tvg-id="1020" tvg-logo="" group-title="北京高清",BTV卡酷少儿[高清]
+http://192.168.126.1:34400/stream/0751f01fbcb8dfa92ba41769a1611b3e
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="湖南卫视[高清]" tvg-id="1021" tvg-logo="" group-title="卫视",湖南卫视[高清]
+http://192.168.126.1:34400/stream/1e179f2bc0dbede3fabb87bf2efb373a
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="浙江卫视[高清]" tvg-id="1022" tvg-logo="" group-title="卫视",浙江卫视[高清]
+http://192.168.126.1:34400/stream/ed0535f06f6aaa27122fd1a3476bdd71
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="江苏卫视[高清]" tvg-id="1023" tvg-logo="" group-title="卫视",江苏卫视[高清]
+http://192.168.126.1:34400/stream/450e30883f037f826c28e09e316cdd6e
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="东方卫视[高清]" tvg-id="1024" tvg-logo="" group-title="卫视",东方卫视[高清]
+http://192.168.126.1:34400/stream/cdc53aed2dd8dd3d14e5354f369ee9e9
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="山东卫视[高清]" tvg-id="1025" tvg-logo="" group-title="卫视",山东卫视[高清]
+http://192.168.126.1:34400/stream/13cc175a7e398dd586e6856bf9d59bb5
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="安徽卫视[高清]" tvg-id="1026" tvg-logo="" group-title="卫视",安徽卫视[高清]
+http://192.168.126.1:34400/stream/7d994a0e020eddf72499d95aaba8e56e
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="湖北卫视[高清]" tvg-id="1027" tvg-logo="" group-title="卫视",湖北卫视[高清]
+http://192.168.126.1:34400/stream/7458693e0d2d45a2a03d949cc6357714
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="东南卫视[高清]" tvg-id="1028" tvg-logo="" group-title="卫视",东南卫视[高清]
+http://192.168.126.1:34400/stream/cd8f96f8603c12ee71d95f4834a6d23e
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="广东卫视[高清]" tvg-id="1029" tvg-logo="" group-title="卫视",广东卫视[高清]
+http://192.168.126.1:34400/stream/3855263d36a6a2a92224be7f4cdeb846
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="辽宁卫视[高清]" tvg-id="1030" tvg-logo="" group-title="卫视",辽宁卫视[高清]
+http://192.168.126.1:34400/stream/2ea8e24bcc212395c173a0f6c655db2f
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="黑龙江卫视[高清]" tvg-id="1031" tvg-logo="" group-title="卫视",黑龙江卫视[高清]
+http://192.168.126.1:34400/stream/bdb33d7b45536777bbc68894021ac674
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="深圳卫视[高清]" tvg-id="1032" tvg-logo="" group-title="卫视",深圳卫视[高清]
+http://192.168.126.1:34400/stream/9d5074b1772f8d4c99a88fe13e76af8a
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="贵州卫视[高清]" tvg-id="1033" tvg-logo="" group-title="卫视",贵州卫视[高清]
+http://192.168.126.1:34400/stream/26508bec68981c73ef95a8ddfbd778f9
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="天津卫视[高清]" tvg-id="1034" tvg-logo="" group-title="卫视",天津卫视[高清]
+http://192.168.126.1:34400/stream/25c653f5a6d5bfd1da7303807ebc5025
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="河北卫视[高清]" tvg-id="1035" tvg-logo="" group-title="卫视",河北卫视[高清]
+http://192.168.126.1:34400/stream/2352eb9a05524ba8233326dbe9787084
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="CCTV5＋[高清]" tvg-id="1036" tvg-logo="" group-title="央视",CCTV5＋[高清]
+http://192.168.126.1:34400/stream/eb49fcf689b200278bc3cb81409aa9e2
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CETV1[高清]" tvg-id="1037" tvg-logo="" group-title="教育台",CETV1[高清]
+http://192.168.126.1:34400/stream/97eb1d241422a5c87bf4919c1440e4b6
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="爱上4K[4K]" tvg-id="1038" tvg-logo="" group-title="4K",爱上4K[4K]
+http://192.168.126.1:34400/stream/6f3da2646a83d40dd0238f8b2217f59a
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="北京IPTV 4K超清[4K]" tvg-id="1039" tvg-logo="" group-title="4K",北京IPTV 4K超清[4K]
+http://192.168.126.1:34400/stream/83ed24869633a217dd90e25e5a6ab8db
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="北京IPTV淘精彩[高清]" tvg-id="1040" tvg-logo="" group-title="IPTV",北京IPTV淘精彩[高清]
+http://192.168.126.1:34400/stream/68d6a5b3e3ff4a65137670e726532a11
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="北京IPTV淘娱乐[高清]" tvg-id="1041" tvg-logo="" group-title="IPTV",北京IPTV淘娱乐[高清]
+http://192.168.126.1:34400/stream/4435521f0fb456b5af503c04e04fd04c
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="北京IPTV淘剧场[高清]" tvg-id="1042" tvg-logo="" group-title="IPTV",北京IPTV淘剧场[高清]
+http://192.168.126.1:34400/stream/9e53eb921a65bed6033a6fe86d414d03
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="北京IPTV淘Baby[高清]" tvg-id="1043" tvg-logo="" group-title="IPTV",北京IPTV淘Baby[高清]
+http://192.168.126.1:34400/stream/375a60e9c5ae939d27bcc4c03973ecd3
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="北京IPTV淘电影[高清]" tvg-id="1044" tvg-logo="" group-title="IPTV",北京IPTV淘电影[高清]
+http://192.168.126.1:34400/stream/74b71468b3b54ce4b7f785916ff0f938
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="北京IPTV 萌宠TV[高清]" tvg-id="1045" tvg-logo="" group-title="IPTV",北京IPTV 萌宠TV[高清]
+http://192.168.126.1:34400/stream/623adb5983a90fe9a889817a48c060a9
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="湖南卫视-金鹰纪实[高清]" tvg-id="1046" tvg-logo="" group-title="卫视",湖南卫视-金鹰纪实[高清]
+http://192.168.126.1:34400/stream/af6e74a61b028cfe52ad81793fa7e7d7
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="湖南卫视-快乐垂钓[高清]" tvg-id="1047" tvg-logo="" group-title="卫视",湖南卫视-快乐垂钓[高清]
+http://192.168.126.1:34400/stream/027b340353870195debaad7f3078f91a
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="湖南卫视-茶频道[高清]" tvg-id="1048" tvg-logo="" group-title="卫视",湖南卫视-茶频道[高清]
+http://192.168.126.1:34400/stream/294c3d8adaa097f68fac72eed0793c7e
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="纪实人文[高清]" tvg-id="1049" tvg-logo="" group-title="纪实",纪实人文[高清]
+http://192.168.126.1:34400/stream/26e0b90c30133978e20eb25d4c5e6f85
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="大健康[高清]" tvg-id="1050" tvg-logo="" group-title="其他电视台",大健康[高清]
+http://192.168.126.1:34400/stream/2bb664fdc42f0b469e3e529b1cb1c39a
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="体育赛事[高清]" tvg-id="1051" tvg-logo="" group-title="其他电视台",体育赛事[高清]
+http://192.168.126.1:34400/stream/dbeb6d091c15dc3155553a227591e7f9
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="电影台[高清]" tvg-id="1052" tvg-logo="" group-title="影视",电影台[高清]
+http://192.168.126.1:34400/stream/59585cec532fce8c4454df041cab3e14
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="熊猫频道[高清]" tvg-id="1053" tvg-logo="" group-title="其他电视台",熊猫频道[高清]
+http://192.168.126.1:34400/stream/919ea59d70761c138e8bf0f6248b514d
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="每日影院[高清]" tvg-id="1054" tvg-logo="" group-title="影视",每日影院[高清]
+http://192.168.126.1:34400/stream/8ce3de2da328deb2d98e240272f451d3
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="幸福剧场[高清]" tvg-id="1055" tvg-logo="" group-title="影视",幸福剧场[高清]
+http://192.168.126.1:34400/stream/6ebcec27e8a8ff9c218b995ac10bdcc6
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="幸福娱乐[高清]" tvg-id="1056" tvg-logo="" group-title="其他电视台",幸福娱乐[高清]
+http://192.168.126.1:34400/stream/2988de9f5a0cbcdd3d8af1174ab73d9e
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="风尚生活[高清]" tvg-id="1057" tvg-logo="" group-title="其他电视台",风尚生活[高清]
+http://192.168.126.1:34400/stream/29452d31a8ebe79559357cfc7d80ac22
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="朝阳电视台[高清]" tvg-id="1058" tvg-logo="" group-title="其他电视台",朝阳电视台[高清]
+http://192.168.126.1:34400/stream/51c95ef89b6f64d84cfa61a541296f21
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="密云电视台[高清]" tvg-id="1059" tvg-logo="" group-title="其他电视台",密云电视台[高清]
+http://192.168.126.1:34400/stream/0b202adb20a432784de0825761ef4763
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="房山电视台[高清]" tvg-id="1060" tvg-logo="" group-title="其他电视台",房山电视台[高清]
+http://192.168.126.1:34400/stream/25299f11871cb5b746d36b1fb2a53d0f
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="聚鲨环球精选[高清]" tvg-id="1061" tvg-logo="" group-title="其他电视台",聚鲨环球精选[高清]
+http://192.168.126.1:34400/stream/f3c81f4902ef0063cdcf51a90864d9e3
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="聚鲨北京[高清]" tvg-id="1062" tvg-logo="" group-title="其他电视台",聚鲨北京[高清]
+http://192.168.126.1:34400/stream/055887e10c1a70ebed8d641b80caf11c
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="聚鲨健康[高清]" tvg-id="1063" tvg-logo="" group-title="其他电视台",聚鲨健康[高清]
+http://192.168.126.1:34400/stream/0b9a6ca0db9f0b0ec3d3aca3c894ece4
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="聚鲨生活[高清]" tvg-id="1064" tvg-logo="" group-title="其他电视台",聚鲨生活[高清]
+http://192.168.126.1:34400/stream/de91bdcccdcbf3a8b320738b7d5dd4cc
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="聚鲨国际[高清]" tvg-id="1065" tvg-logo="" group-title="其他电视台",聚鲨国际[高清]
+http://192.168.126.1:34400/stream/7c46adac9c3ff6ccdcdf27240bbb098b
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="CCTV-13新闻" tvg-id="1078" tvg-logo="" group-title="央视",CCTV-13新闻
+http://192.168.126.1:34400/stream/ef1466083254c8f323817c4564041344
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="CETV1" tvg-id="1082" tvg-logo="" group-title="教育台",CETV1
+http://192.168.126.1:34400/stream/f3bbc591033d83ab9039692fa9fba8c4
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="CETV2" tvg-id="1083" tvg-logo="" group-title="教育台",CETV2
+http://192.168.126.1:34400/stream/272aaf2dd6b10710c85105621df13c11
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="CETV3" tvg-id="1084" tvg-logo="" group-title="教育台",CETV3
+http://192.168.126.1:34400/stream/bbf60fee53f0fcf60fab34011ef5e9f1
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="CETV4" tvg-id="1085" tvg-logo="" group-title="教育台",CETV4
+http://192.168.126.1:34400/stream/eb73894a06888925bb000cf72cf7149b
+#EXTINF:0 channelID="x-ID.133" tvg-chno="1133" tvg-name="IPTV少儿动画" tvg-id="1133" tvg-logo="" group-title="IPTV",IPTV少儿动画
+http://192.168.126.1:34400/stream/f3d238725a1d8a12c11fa46b1a83391d
+#EXTINF:0 channelID="x-ID.134" tvg-chno="1134" tvg-name="IPTV魅力时尚" tvg-id="1134" tvg-logo="" group-title="IPTV",IPTV魅力时尚
+http://192.168.126.1:34400/stream/401e29bfecbb23502d52215a98851274
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="IPTV热播剧场" tvg-id="1135" tvg-logo="" group-title="IPTV",IPTV热播剧场
+http://192.168.126.1:34400/stream/98682496633b1d6eab92a4bea6f0f974
+#EXTINF:0 channelID="x-ID.136" tvg-chno="1136" tvg-name="IPTV收视指南" tvg-id="1136" tvg-logo="" group-title="IPTV",IPTV收视指南
+http://192.168.126.1:34400/stream/3061a46b8b11f85805d95490f43fce0b
+#EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="IPTV经典电影" tvg-id="1137" tvg-logo="" group-title="IPTV",IPTV经典电影
+http://192.168.126.1:34400/stream/bced4f439fb6d076fa4a64edcdd1a71e
+#EXTINF:0 channelID="x-ID.140" tvg-chno="1140" tvg-name="城市剧场" tvg-id="1140" tvg-logo="" group-title="影视",城市剧场
+http://192.168.126.1:34400/stream/e17a909d3b2594622ebe0dafaca5a628
+#EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="军旅剧场" tvg-id="1141" tvg-logo="" group-title="影视",军旅剧场
+http://192.168.126.1:34400/stream/7b45702c5bb167bd0f0f62e8c4230fc2
+#EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="古装剧场" tvg-id="1142" tvg-logo="" group-title="影视",古装剧场
+http://192.168.126.1:34400/stream/a959be63e62a405ce374e157859fed79
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="武侠剧场" tvg-id="1143" tvg-logo="" group-title="影视",武侠剧场
+http://192.168.126.1:34400/stream/f36ad0c4b8b1edb7cb9124f87e363f5a
+#EXTINF:0 channelID="x-ID.144" tvg-chno="1144" tvg-name="喜剧影院" tvg-id="1144" tvg-logo="" group-title="影视",喜剧影院
+http://192.168.126.1:34400/stream/d231fe55e6a8ff9d9f51854b7e09332a
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="动作影院" tvg-id="1145" tvg-logo="" group-title="影视",动作影院
+http://192.168.126.1:34400/stream/f35570a1a22f35e3e1ca6c67f94431ab
+#EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="家庭影院" tvg-id="1146" tvg-logo="" group-title="影视",家庭影院
+http://192.168.126.1:34400/stream/a74c33ffd4dfa0ac6f7a47c957b523ef
+#EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="CGTN" tvg-id="1149" tvg-logo="" group-title="央视",CGTN
+http://192.168.126.1:34400/stream/fe017643770ae12d2d62ba9b60353cdf
