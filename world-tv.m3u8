@@ -1,221 +1,43 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="News",(GR) EuroNews 4K+
-http://pakiptv.top:8880/Vip1000/03590359/123803?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",ABC Boston
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145788?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",ABC Houston
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145799?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",ABC New York
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145806?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",ABC News Live
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/abc.news.live.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",ABC Portland
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145811?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",ABC San Diego
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145816?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",BBC 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.one.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",BBC 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.two.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",BBC 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.four.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",BBC News
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.news.channel.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",BBC Three
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.three.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",BT Sport ESPN UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.espn.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CBS East
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cbs.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",CBS New York
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145846?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Channel 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/channel.4.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Channel 5
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/channel.5.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CITV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/citv.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CNBC US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.usa.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CNBC World US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnbc.world.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CNN International North America
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.international.north.america.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",CNN US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery Channel
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.ru.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery Channel CA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.can.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg"group-title="Undefined",DISCOVERY CHANNEL HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49801?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery History UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.history.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg"group-title="Undefined",DISCOVERY SCIENCE HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49782?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery Science UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.science.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery Turbo UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.turbo.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Discovery UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Disney Channel (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",ESPN 2 US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn2.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",ESPN Classic Canada
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn.classic.canada.ca.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",ESPN Classics US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn.classics.usa.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",ESPN US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/espn.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Euronews (Denmark)
-https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Euronews (Finland)
-https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Euronews (Netherlands)
-https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Euronews (Norway)
-https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Euronews (Sweden)
-https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="News",Euronews German
-https://euronews.alteox.app/hls/de_stream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",EuroNews UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/euronews.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.uk.png"group-title="Sport",EuroSport 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Eurosport 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ru.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Eurosport 2 UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",FOX 5 NEW YORK
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFL5QXL-t5WJfeLj0j0pgx8/ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",FOX News US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.news.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Fox Sports 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.sports.1.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Fox Sports 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.sports.2.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO 2 (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO Comedy (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO Family (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO Signature (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",HBO Zone (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.east.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.1.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.2.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV 3
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.3.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.4.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV East
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.east.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV London
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.london.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV Wales
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.hd.wales.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",ITV West
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/itv.west.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",NASA 4K
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nasa.4k.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Boston
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145870?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Chicago
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145873?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Cincinnati
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145874?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Houston
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145881?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Los Angeles
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145885?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC New Orleans
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145890?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC New York
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145891?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",NBC News Now (US)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nbc.news.now.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC Philadelphia
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145893?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC San Diego
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145899?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",NBC San Francisco
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145900?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Arts UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.arts.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Action
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.action.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Animation
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.animation.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Comedy
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.comedy.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Drama
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.drama.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Family
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.family.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Greats UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.greats.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Hits
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.hits.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Premiere
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.premiere.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Sci-fi Horror
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Select
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.select.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Cinema Thriller
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.thriller.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",SKY CRIME HD
-http://cineapp.org:8000/Fernando/Fernando/24842?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Documentaries
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.documntrs.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky History UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/history.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky MAX
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.one.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Sky Nature
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.nature.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="News",Sky News
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.news.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sport 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.1.de.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sport 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.2.de.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sport Austria
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.austria.de.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sport News
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.news.de.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sports Football
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lvupvmnk.ss.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sports Golf
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/kszsuhwg.ss.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sports Main Event
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eppvjpkd.ss.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",SKY SPORTS NEWS
-http://cineapp.org:8000/Fernando/Fernando/271?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sports News
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fdghodsfgh.ss.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",SKY SPORTS PREMIER LEAGUE
-http://cineapp.org:8000/Fernando/Fernando/777?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Sport",Sky Sports Racing
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/oqsogftr.ss.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",TNT (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.east.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",TNT (West) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.pacific.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo=""group-title="Undefined",Travel Channel
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/travel.channel.uk.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cd5v79M.png"group-title="News",TVB News Channel (720p)
+#EXTM3U
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/cd5v79M.png" group-title="News",TVB News Channel (720p)
 https://tvp22.sky4k.top/index1.php?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg"group-title="Undefined",USA CW East Philadelphia UHD
+#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="News",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.uk.png" group-title="Sport",EuroSport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS
+http://cineapp.org:8000/Fernando/Fernando/271?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://cineapp.org:8000/Fernando/Fernando/777?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 5 NEW YORK
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFL5QXL-t5WJfeLj0j0pgx8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",NBC New York
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",CBS New York
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",ABC New York
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145806?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Euronews (Sweden)
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Euronews (Norway)
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Euronews (Netherlands)
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Euronews (Finland)
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg" group-title="Undefined",USA CW East Philadelphia UHD
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",DISCOVERY SCIENCE HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",DISCOVERY CHANNEL HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/49801?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Euronews (Denmark)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="News",Euronews : HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CRIME HD
+http://cineapp.org:8000/Fernando/Fernando/24842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Sport",Eurosport 2 HD
+https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8?checkedby:iptvcat.com
